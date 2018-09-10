@@ -86,7 +86,7 @@ INSPIRATION AND OBJECTIVES:
 
 Model application:
 Packages used:
-Pandas, numpy, matplotlib.pyplot, seaborn, scikit
+Pandas, numpy, matplotlib.pyplot, seaborn, sklearn
 Visualization of this was also done in “Tableau”
 Acknowledgements:
 Dmitri for sharing the data sets
